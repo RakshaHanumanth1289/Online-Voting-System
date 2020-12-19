@@ -1,0 +1,168 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color:;
+
+}
+h1{
+	text-align: center;
+	padding: 20px;
+	color:blue;
+	text-decoration: underline;
+	font-size: 30px;
+	font-style: italic;
+	letter-spacing: 2px;
+}
+
+#first {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 10px;
+	height: 0px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+	
+}
+#last{
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 0px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+	
+}
+#phone {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 0px;
+	color: ;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+	
+}
+#email {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 0px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+	
+}
+#user {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 0px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+	
+}
+#course {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 0px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+	
+}
+#sem {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 0px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+
+	
+}
+
+#password {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 0px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+
+	
+}
+
+#confirm password {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 0px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+
+	
+}
+
+
+#gender{
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 10px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+	
+}
+#category {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 30px;
+	color: black;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+	
+}
+#SUBMIT {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 20px;
+	height: 0px;
+	<!-- background-color: #87CEFA;-->
+	<!-- border-style: solid;--> 
+	<!-- border-width: 2px;-->
+	
+}

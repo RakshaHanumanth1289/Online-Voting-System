@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	border-bottom: flex;
+	background-color: ;
+	
+}
+h3{
+	text-align: center;
+	padding: 30px;
+	font-size: 20px;
+	font-style: italic;
+	letter-spacing: 2px;
+	text-decoration: underline;
+	font-size: 20px;
+	font-style: italic;
+
+}
+
+h5 {
+	text-align: center;
+	padding: 20px;
+	color: blue;
+}
+.container {
+	padding-left: 50px;
+}
+
+.container img {
+	width: 100px;
+	padding: 5px;
+
+}
+
+#candidate-1 {
+	padding: 20px;
+	font-size: 15px;
+	font-style: italic;
+	letter-spacing: 2px;
+	font-style: italic;
+
+}
+#candidate-2 {
+	padding: 20px;
+	font-size: 15px;
+	font-style: italic;
+	letter-spacing: 2px;
+	font-style: italic;
+}
+#candidate-3 {
+	padding: 20px;
+	font-size: 15px;
+	font-style: italic;
+	letter-spacing: 2px;
+	font-style: italic;
+}
+#candidate-4 {
+	padding: 20px;
+	font-size: 15px;
+	font-style: italic;
+	letter-spacing: 2px;
+	font-style: italic;
+}
